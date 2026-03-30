@@ -1,7 +1,7 @@
 # 🎵 TikDown — TikTok Video & Audio Downloader
 
 > Download TikTok MP4 (no watermark) & MP3, gratis dan tanpa login.  
-> Built by [@ipanzx](https://github.com/ipanzx) · React Vite + Tailwind CSS
+> Built by [@irfanxyz5](https://github.com/irfanxyz5) · React Vite + Tailwind CSS
 
 ---
 
@@ -114,9 +114,9 @@ tikdown/
 
 ## 📬 Contact
 
-- Instagram: [@ipanzx](https://instagram.com/ipanzx)
-- GitHub: [@ipanzx](https://github.com/ipanzx)
-- Telegram: [@ipanzx](https://t.me/ipanzx)
+- Instagram: [@panzxiorzy](https://instagram.com/panzxiorzy)
+- GitHub: [@irfanxyz5](https://github.com/irfanxyz5)
+- Telegram: [@panzxiorzyy](https://t.me/panzxiorzy)
 
 ---
 
