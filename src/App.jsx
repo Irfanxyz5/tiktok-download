@@ -480,24 +480,24 @@ const getTikTok = async (tiktokUrl) => {
               {
                 icon: <InstagramIcon />,
                 label: "Instagram",
-                handle: "@ipanzx",
-                href: "https://instagram.com/ipanzx",
+                handle: "@panzxiorzy",
+                href: "https://instagram.com/panzxiorzy",
                 cls: "ig-hover",
                 desc: "Follow untuk konten update"
               },
               {
                 icon: <GitHubIcon />,
                 label: "GitHub",
-                handle: "@ipanzx",
-                href: "https://github.com/ipanzx",
+                handle: "@irfanxyz5",
+                href: "https://github.com/irfanxyz5",
                 cls: "gh-hover",
                 desc: "Open source & projects"
               },
               {
                 icon: <TelegramIcon />,
                 label: "Telegram",
-                handle: "@ipanzx",
-                href: "https://t.me/ipanzx",
+                handle: "@panzxiorzyy",
+                href: "https://t.me/panzxiorzyy",
                 cls: "tg-hover",
                 desc: "Chat langsung & support"
               },
@@ -642,8 +642,8 @@ const getTikTok = async (tiktokUrl) => {
         </div>
         <p className={`text-xs ${t.muted}`}>
           © 2025 TikDown by{" "}
-          <a href="https://github.com/ipanzx" target="_blank" rel="noopener noreferrer"
-            className="text-[#a78bfa] hover:underline">@ipanzx</a>
+          <a href="https://github.com/irfanxyz5" target="_blank" rel="noopener noreferrer"
+            className="text-[#a78bfa] hover:underline">ipanzx developer</a>
           . Powered by tikwm.com API.
         </p>
         <p className={`text-xs ${t.muted} mt-1`}>Website ini tidak berafiliasi dengan TikTok Inc.</p>
